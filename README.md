@@ -1,20 +1,13 @@
-# About The Program
-This program takes inputs from the user, like their branch, group, and tells them how many classes they can skip in total for each lecture / lab session in the semester.
-#### No LLMs were used in the development of this code or its logic.
+Tired of guessing and calculating how many classes more you can leave in a particular subject?
+Worry no more, just track which class you are missing, and you are done with your work.
 
-# Bunker_Calculator
-This repository contains the source code, all the underlying logic and the workflow idea. 
+Run this program, and get to know how many in total, classes you can skip, and still pass the 75% attendance criteria easily.
+This program asks you for your branch, and your group number in lab sessions, and will tell you how many classes for a specific subject/course you have in this sem, and how many in total you can skip.
 
+So 
 
-# Contributing
-I will be welcoming all contributions and suggestions from your side! Follow these steps to contribute:
+NO MORE MORNING HURRIES,
 
-1. Fork this repository.
-2. Clone your fork.
-3. Create a new Branch for your changes.
-4. Make & Test your changes.
-5. Commit your changes.
-6. Push them to Your Branch.
-7. Submit a Pull Request.
+NO MORE GUESS-WORK, and
 
-Once your pull request is reviewed and merged, you are officially a contributor!
+NO MORE ATTENDANCE STRESS
